@@ -1,0 +1,53 @@
+{
+    "status": "OK",
+    "data": [
+        {
+            "photo": "audi-a8.jpg",
+            "model": "A8",
+            "year": "2017",
+            "brand": "Audi",
+            "price": 100000,
+            "specifications": "El Audi A8 cuenta con una única variante y tiene una longitud total de 5,17 metros. Este modelo enlaza la deportividad y la elegancia con detalles exteriores como una parrilla delantera más amplia. Este frontal se combina con unos grupos ópticos Mátrix de tecnología LED con indicador dinámico, un búmper bodycolor y una variedad de acabados en aluminio."
+        },
+        {
+            "photo": "audi-s4-family.jpg",
+            "model": "S4",
+            "year": "2018",
+            "brand": "Audi",
+            "price": 150000,
+            "specifications": "El Audi S4 deja su huella gracias a su diseño deportivo: numerosos elementos específicos de S en el exterior y el interior lo distinguen claramente como el integrante más deportivo de la familia A4. El motor 3.0 con tecnología TSFI acelera de 0 a 100 km / h en solo 4,7 segundos."
+        },
+        {
+            "photo": "toyota-corolla.jpg",
+            "model": "Corolla",
+            "year": "2018",
+            "brand": "Toyota",
+            "price": 110000,
+            "specifications": "Llantas 225/45 Rin 17 / Material timón con cuero / Comandos timón: Audio + Voz + Pantalla Multi Info + Control Crucero / Con sensor de lluvia / Material tapicería: Con cuero negro con hilo bordado doble, diseño deportivo / Silla conductor con ajuste eléctrico / Sensores de parqueo Frontales y Traseros + Cámara de reversa"
+        },
+        {
+            "photo": "ford-mustang.jpg",
+            "model": "Mustang",
+            "year": "2015",
+            "brand": "Ford",
+            "price": 90000,
+            "specifications": "Su diseño aerodinámico y exterior con detalles elegantes hacen honor a la herencia del Mach 1 que se remonta a más de cinco décadas. Seguro, cada Mustang luce bien en la entrada de una casa, pero el Mach 1 se diseñó para brillar en la pista. La exclusiva dinámica de manejo y el Paquete de Manejo Mach 1 disponible te hacen sentir como si estuvieras adherido a la carretera, en las curvas y cuando alcanzas una máxima velocidad de 168."
+        },
+        {
+            "photo": "ford-fiesta.jpg",
+            "model": "Fiesta",
+            "year": "2011",
+            "brand": "Ford",
+            "price": 90000,
+            "specifications": "Clasificación estimada por la EPA de 23 mpg en ciudad/29 carretera/25 combinados, Motor Ti-VCT de 2.0 L. El millaje real puede variar. Llama la atención con estilo y confort en la Ford EcoSport 2020. Con características estándar como BLIS® con Alerta de Tráfico Cruzado y Cámara de Marcha Atrás"
+        },
+        {
+            "photo": "toyota-camry.jpg",
+            "model": "Camry",
+            "year": "2014",
+            "brand": "Toyota",
+            "price": 90000,
+            "specifications": "El motor V6 de 3.5 L es tan robusto que te ofrece un manejo emocionante donde quiera que vayas. Un techo bajo y un frente elegante complementan los contornos audaces del Camry XSE. El interior moderno del Camry sobresale con la pantalla táctil flotante de 9 plg disponible. La Pantalla de Avisos (HUD) a color disponible proyecta la información importante directamente en el parabrisas para ayudarte a mantener tu enfoque en la carretera."
+        }
+    ]
+}

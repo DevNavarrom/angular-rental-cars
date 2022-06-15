@@ -1,0 +1,8 @@
+<app-header></app-header>
+<div class="p-5 mt-96 mb-5 xs:mt-[350%] h-[60vh] flex justify-center">
+    <div class="grid lg:grid-cols-3 gap-6 xl:gap-x-12">
+        <div *ngFor="let item of carList$ | async">
+            <app-card-car [item]='item' (selectItemEvent)="viewDetail($event)"></app-card-car>
+        </div>
+    </div>
+</div>
